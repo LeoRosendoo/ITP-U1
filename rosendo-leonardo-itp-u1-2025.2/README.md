@@ -1,6 +1,6 @@
 Introdução a Técnicas de Programação
 Aluno: Leonardo Rosendo Faustino
-Matrícula: [SUA MATRÍCULA AQUI]
+Matrícula: 20250027331
 Período: 2025.2
 
 
@@ -23,4 +23,5 @@ Conceitos da U1 Aplicados:
 - Estruturas condicionais: Utilizadas para classificar o sinal e para garantir que os valores permanecessem dentro dos limites.
 - Estruturas de repetição: O laço "for" foi o motor central da simulação, garantindo a execução de 100 pulsos.
 - Vetores: O vetor "historicoDeSinais" foi usado para armazenar todos os 100 pontos de dados gerados, servindo como a memória da simulação.
+
 - Funções: O código foi modularizado em 4 funções especialistas ("interpretarSinal", "executarPulsoSimulacao", "exibirEstadoSimulacao", "exibirResumoHistorico") para aumentar a legibilidade e a manutenção, com a "main" atuando como orquestradora.
